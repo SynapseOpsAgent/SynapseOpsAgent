@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SynapseOpsAgent/SynapseOpsAgent/main/assets/synapseopsagent-profile.jpg" alt="SynapseOpsAgent" width="360">
+  <img src="https://raw.githubusercontent.com/SynapseOpsAgent/SynapseOpsAgent/main/assets/synapseopsagent-readme-banner-wb.jpg" alt="SynapseOpsAgent - autonomous GitHub operations agent" width="100%">
 </p>
 
 # SynapseOpsAgent
